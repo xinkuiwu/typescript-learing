@@ -1,3 +1,4 @@
+// playground: https://www.typescriptlang.org/play?#code/Q
 // 类型体操套路一： 模式匹配做提取
 
 // Promise:
